@@ -27,4 +27,4 @@ Akın Gül: Team Member/Developer
 * Kendisine daha iyi hizmet verilmesini isteyen müşteriler.
 
 # Product Backlog URL
---------
+https://miro.com/app/board/uXjVO2puTYY=/
