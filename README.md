@@ -45,4 +45,15 @@ https://miro.com/app/board/uXjVO2puTYY=/
 ![Screenshot_20220508_221407_com whatsapp](https://user-images.githubusercontent.com/74930011/167312303-1a62f614-e8c0-446f-80e0-09ad3e133be2.jpg)
 ![Screenshot_20220508_221407_com whatsapp](https://user-images.githubusercontent.com/74930011/167312322-1c22f109-ea80-45d0-983a-33b2c881f3c2.jpg)
 
+# Ürün Durumu
+![Screenshot_4](https://user-images.githubusercontent.com/74930011/167312832-12ff0890-6591-4179-8479-cf2424c61587.png)
 
+# Yalın Kanvas
+![Screenshot_6](https://user-images.githubusercontent.com/74930011/167312892-7ef85015-eff1-4666-b209-122bcbcb1e71.png)
+
+# Sprint Review: 
+Alınan kararlar: Anket uygulamamızın geri dönüşleri için veri analizine ihtiyacımız olduğu ve bu konuda kendimizi geliştirmemiz gerektiğine karar verdik. Diğer uygulamalardan farklı olacak noktamız olduğu için bu konunun üstüne düşmemiz gerektiğine karar verdik.
+
+# Sprint Retrospective:
+•	Takım içi roller oturtuldu ve görev dağılımları yapıldı.
+•	Sprintler için ayırdığımız süre yetersiz kaldı ve arttırmaya yönelik karar alındı.
