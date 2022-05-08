@@ -37,4 +37,4 @@ https://miro.com/app/board/uXjVO2puTYY=/
 * Didem: Benim orta büyüklükte züccaciye dükkanım var. Müşterilerin taleplerinin ne olduğunu yetişmek çok zor olabiliyor. Bunu kolaylaştırabilecek bir hizmet olsa çok güzel olurdu.
 * Ali: Ben bi çaybahçesi sahibiyim ve yeni bir çay markası denediğmde ya da masa örtülerinin rengini değiştirdiğimde müşterinin memnuniyetini ölçecek bir uygulama hayatımı kurtarırdı.
 
-/dsadsadasdsad
+$asdasdsadsad
