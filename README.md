@@ -29,4 +29,12 @@ Anketör
 # Product Backlog URL
 https://miro.com/app/board/uXjVO2puTYY=/
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+# SPRİNT 1
+
+# Kullanıcı Hikayeleri
+* Mehmet: Beni bir balık lokantası sahibiyim fakat müşterilemin sayısı çok azdı. Anketör sayesinde insanların ağızlarının kokmalarını istemediği için lokantama gelmediğini öğrendim ve tuvalete müşterilerin ücretsiz bir şekilde kullanabileceği ağız gargarası koydum.
+* Didem: Benim orta büyüklükte züccaciye dükkanım var. Müşterilerin taleplerinin ne olduğunu yetişmek çok zor olabiliyor. Bunu kolaylaştırabilecek bir hizmet olsa çok güzel olurdu.
+* Ali: Ben bi çaybahçesi sahibiyim ve yeni bir çay markası denediğmde ya da masa örtülerinin rengini değiştirdiğimde müşterinin memnuniyetini ölçecek bir uygulama hayatımı kurtarırdı.
+
+
