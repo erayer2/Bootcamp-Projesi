@@ -11,7 +11,7 @@ Merve Yağmur: Team Member/Developer
 Akın Gül: Team Member/Developer
 
 # Uygulama İsmi
--------
+Anketör
 
 # Ürün açıklaması
 * Bu uygulamamız ile küçük ve orta düzeydeki esnaf ve işletmelere müşterilere sorduğumuz sorulardan elde ettiğimiz veriyi kullanarak bir geri bildirim sağlaaycak.
