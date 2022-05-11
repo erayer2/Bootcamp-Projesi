@@ -27,7 +27,7 @@ Anketör
 * Kendisine daha iyi hizmet verilmesini isteyen müşteriler.
 
 # Product Backlog URL
-https://miro.com/app/board/uXjVO2puTYY=/
+https://miro.com/app/board/uXjVO2puTYY=/?share_link_id=689888250885
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 # SPRİNT 1
@@ -41,9 +41,7 @@ https://miro.com/app/board/uXjVO2puTYY=/
 85 puan.
 
 # Günlük konuşma
-![Screenshot_20220508_221413_com whatsapp](https://user-images.githubusercontent.com/74930011/167312290-a658712c-c03a-4932-b312-80292585b7fe.jpg)
-![Screenshot_20220508_221407_com whatsapp](https://user-images.githubusercontent.com/74930011/167312303-1a62f614-e8c0-446f-80e0-09ad3e133be2.jpg)
-![Screenshot_20220508_221407_com whatsapp](https://user-images.githubusercontent.com/74930011/167312322-1c22f109-ea80-45d0-983a-33b2c881f3c2.jpg)
+https://docs.google.com/document/d/1lP6iyhi0eCnHbiUCUUzAzWMw5XWw3vnlQEqs6B3Ab78/edit?usp=sharing
 
 # Ürün Durumu
 ![Screenshot_4](https://user-images.githubusercontent.com/74930011/167312832-12ff0890-6591-4179-8479-cf2424c61587.png)
