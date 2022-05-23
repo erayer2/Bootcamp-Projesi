@@ -63,5 +63,11 @@ Alınan kararlar: Anket uygulamamızın geri dönüşleri için veri analizine i
 85 puan.
 
 # Günlük konuşma
+https://docs.google.com/document/d/1pXzBr1W6NMGS_zU4HXC0B1HXCwGzcxOD-uNdIWbQQbM/edit?usp=sharing
 
-# Ürün Durumu
+# Ürün Durumu!
+[flutter](https://user-images.githubusercontent.com/74930011/169869234-e5f4826b-a5f5-4858-9d37-8f69401d0289.png)
+
+# Sprint Review:
+
+# Sprint Retrospective:
