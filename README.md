@@ -71,3 +71,7 @@ https://docs.google.com/document/d/1pXzBr1W6NMGS_zU4HXC0B1HXCwGzcxOD-uNdIWbQQbM/
 # Sprint Review:
 
 # Sprint Retrospective:
+* Önümüzdeki sprintte ekibimizin boş vakti çok olmayacağı için kodlama tarafında daha az iş yapacağız. Bunun sonucu olarak elimize tam istediğimiz bir şekilde app çıkmayacak. Buna rağmen büyük ihtimalle çalışabilir bir anketör uygulamamız olacak. 
+* Son sprint içinde toplam 20 saatlik çalışma süremiz olacağını planlıyoruz. Bu 20 saati kodlamaya ve müşteriden maksimum veriyi alabilecek soruları bulmaya çalışacağız.
+* Uygulamanın bazı kısımları çıkarılarak daha sade bir proje çıkarmamız daha olası.
+
