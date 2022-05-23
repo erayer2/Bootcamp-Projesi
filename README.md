@@ -69,6 +69,7 @@ https://docs.google.com/document/d/1pXzBr1W6NMGS_zU4HXC0B1HXCwGzcxOD-uNdIWbQQbM/
 [flutter](https://user-images.githubusercontent.com/74930011/169869234-e5f4826b-a5f5-4858-9d37-8f69401d0289.png)
 
 # Sprint Review:
+Anket uygulamamımızın kullancılara dönük, doğru ve etkili analiz yapabilmesi açısından gerekli olan bazı kısımların toplantılarını gerçekleştirdik ve uygulamaya eklemek için teknik bilgiye sahip grup üyelerimize bildirimini yaptık. Uygulamada meydana gelen bir sorunun çözümüne de yaptığımız toplantıda ulaştık.
 
 # Sprint Retrospective:
 * Önümüzdeki sprintte ekibimizin boş vakti çok olmayacağı için kodlama tarafında daha az iş yapacağız. Bunun sonucu olarak elimize tam istediğimiz bir şekilde app çıkmayacak. Buna rağmen büyük ihtimalle çalışabilir bir anketör uygulamamız olacak. 
