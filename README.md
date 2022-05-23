@@ -55,3 +55,13 @@ Alınan kararlar: Anket uygulamamızın geri dönüşleri için veri analizine i
 # Sprint Retrospective:
 •	Takım içi roller oturtuldu ve görev dağılımları yapıldı.
 •	Sprintler için ayırdığımız süre yetersiz kaldı ve arttırmaya yönelik karar alındı.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# SPRİNT 2
+
+# Tamamlanması tahmin edilen puan
+85 puan.
+
+# Günlük konuşma
+
+# Ürün Durumu
