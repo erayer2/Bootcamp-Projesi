@@ -76,3 +76,24 @@ Anket uygulamamımızın kullancılara dönük, doğru ve etkili analiz yapabilm
 * Son sprint içinde toplam 20 saatlik çalışma süremiz olacağını planlıyoruz. Bu 20 saati kodlamaya ve müşteriden maksimum veriyi alabilecek soruları bulmaya çalışacağız.
 * Uygulamanın bazı kısımları çıkarılarak daha sade bir proje çıkarmamız daha olası.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# SPRİNT 3
+
+# Tamamlanması tahmin edilen puan:
+85 puan.
+
+# Günlük konuşma:
+[daily scrum](https://docs.google.com/document/d/14aC9X2tA5TYxYNYNzuWlXnyAVJekm2GGuu1WWHVVnrU/edit?usp=sharing)
+
+# Ürün Durumu:
+[flutter]
+
+# Sprint Review:
+Bir uygulama yazarken düşündüklerimizi koda dökmenin zorluğunu sonuna kadar yaşadık. Maalesef beklediğimiz gibi bir uygulama çıkaramadık. Moral olarak bir düşüklük yaşasak bile kodlama konusundaki eksikliklerimizi görmüş olduk.
+
+# Sprint Retrospective:
+* Bu sprintin bize öğrettiklerinden ders alarak flutter eğitimimize aktif olarak devam etmemiz gerektiğine karar verdik.
+* ürün videosunun kimin ve nasıl çekileceğine karar vereceğiz
+
+# Uygulama geri bildirimleri:
+Murat Yalçın: Murat abinin bir beyaz eşya dükkanı var ve uygulamamızı tam bitmemiş olsa da hikayesini anlatıp ondan geri bildirim istedik. Murat abi uygulamanın tam halinin çok işine yarayacağını fakat şu anki hali ile sadece soru sorma makinesi olduğundan bahsetti.
