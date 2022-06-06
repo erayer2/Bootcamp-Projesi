@@ -86,7 +86,8 @@ Anket uygulamamımızın kullancılara dönük, doğru ve etkili analiz yapabilm
 [daily scrum](https://docs.google.com/document/d/14aC9X2tA5TYxYNYNzuWlXnyAVJekm2GGuu1WWHVVnrU/edit?usp=sharing)
 
 # Ürün Durumu:
-[flutter]
+[flutter](https://user-images.githubusercontent.com/74930011/172261059-8bf95d67-9e0d-4fca-aee5-9ca0995e34a3.jpg)
+
 
 # Sprint Review:
 Bir uygulama yazarken düşündüklerimizi koda dökmenin zorluğunu sonuna kadar yaşadık. Maalesef beklediğimiz gibi bir uygulama çıkaramadık. Moral olarak bir düşüklük yaşasak bile kodlama konusundaki eksikliklerimizi görmüş olduk.
